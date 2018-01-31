@@ -215,7 +215,7 @@ title:
 <img class="preview-img no-padding good" align="right" src="https://gw.alipayobjects.com/zos/rmsportal/QGpLpUFgZnTDzYJCeuun.png" alt="正确示范">
 <img class="preview-img no-padding bad" align="right" src="https://gw.alipayobjects.com/zos/rmsportal/fQhiFpjLcHJtJJGzElUT.png" alt="错误示范">
 
-为了帮助用户更加高效得扫视文本内容，可以省略不必要的断句点。
+为了帮助用户更加高效地扫视文本内容，可以省略不必要的断句点。
 
 以下元素单独出现时可以省略标点：
 
